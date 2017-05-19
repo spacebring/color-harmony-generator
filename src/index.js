@@ -1,14 +1,7 @@
-import * as HarmonyTypes from './constants/harmony-types';
-import { fullScheme, fromHex } from './utils/color';
+import * as HarmonyTypes from './harmony-types';
+
+export { default } from './scheme-generator';
 
 export {
-  fullScheme,
-  fromHex,
-  HarmonyTypes,
-};
-
-export default {
-  fullScheme,
-  fromHex,
   HarmonyTypes,
 };

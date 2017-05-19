@@ -1,6 +1,6 @@
 {
   "name": "color-harmony-generator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Library for generation of harmonious color themes.",
   "keywords": [
     "react",
@@ -33,7 +33,7 @@
   "files": [
     "lib",
     "harmony-types.js",
-    "utils-color.js"
+    "scheme-generator.js"
   ],
   "main": "lib/index.js",
   "dependencies": {

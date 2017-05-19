@@ -1,2 +1,2 @@
 /* eslint-disable flowtype/require-valid-file-annotation */
-module.exports = require('./lib/utils/color');
+module.exports = require('./lib/scheme-generator');
