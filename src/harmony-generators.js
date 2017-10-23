@@ -60,13 +60,11 @@ export function monochromatic(color) {
   const modification = 1 / results;
   /* eslint-disable no-plusplus */
   while (results--) {
-    ret.push(
-      hsv2hsl([
-        hsv[0],
-        hsv[1],
-        v,
-      ]),
-    );
+    ret.push(hsv2hsl([
+      hsv[0],
+      hsv[1],
+      v,
+    ]));
     v = (v + (100 * modification)) % 100;
   }
   /* eslint-enable no-plusplus */
