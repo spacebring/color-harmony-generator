@@ -1,7 +1,7 @@
 {
   "name": "color-harmony-generator",
   "version": "0.1.2",
-  "description": "Library for generation of harmonious color themes.",
+  "description": "Generate harmonious color themes.",
   "keywords": [
     "react",
     "colorizer",
