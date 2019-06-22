@@ -46,7 +46,7 @@
     "babel-preset-es2015": "^6.9.0",
     "babel-preset-react": "^6.23.0",
     "chai": "^4.2.0",
-    "eslint": "^5.7.0",
+    "eslint": "^6.0.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.14.0",
     "jsdom": "^15.0.0",
